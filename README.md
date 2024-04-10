@@ -1,4 +1,4 @@
-### study-of-basic-gates
+[### study-of-basic-gates
 
 **AIM:** 
 
@@ -199,3 +199,4 @@ SUCCESSFULLY EXECUTED
 
 
 
+](https://github.com/DANJERISHSELVA/study-of-basic-gates/blob/main/README.md)
